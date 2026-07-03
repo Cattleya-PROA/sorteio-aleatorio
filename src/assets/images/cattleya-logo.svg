@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 480 100" style="enable-background:new 0 0 480 100;" xml:space="preserve" aria-labelledby="Cattleya" role="img">
+<style type="text/css">
+	.cattleya-mark { fill: #FFFFFF; }
+	.cattleya-text { fill: #FFFFFF; font-family: 'Montserrat', 'Arial', sans-serif; font-weight: 800; font-size: 48px; }
+</style>
+<g transform="translate(-195, -8)">
+	<path class="cattleya-mark" d="M236.7,15.6h-8.9c-4.1,0-7.7,2.4-9.2,6.2l-0.8,2.1l-0.8-2c-1.5-3.8-5.2-6.3-9.3-6.3h-9.5
+		c-3.4,0-6.5,1.7-8.4,4.5c-1.8,2.8-2.2,6.4-0.8,9.5l12.9,29.7l-4.6,10.3c-1.4,3.1-1.1,6.7,0.7,9.5s5,4.6,8.4,4.6h9.1
+		c4,0,7.6-2.3,9.2-6l21.2-48.1c1.4-3.1,1.1-6.7-0.8-9.5C243.2,17.3,240,15.6,236.7,15.6z"/>
+</g>
+<text class="cattleya-text" x="75" y="72">cattleya</text>
+</svg>
